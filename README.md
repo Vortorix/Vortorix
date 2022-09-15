@@ -1,7 +1,10 @@
 # Vortorix 
-**helloworld**
-<ol>
+**HELLO WORLD**
+
 <li>minecraft is fun</li> 
 <li>minecraft is nostalgic</li>
-<li>minecraft is life</li>
+<li>therefore minecraft is life</li>
+<ol>
+  maybe if I knew html this would look better
+  but I don't
 <ol>
